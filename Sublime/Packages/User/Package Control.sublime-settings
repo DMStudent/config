@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Theme - Flatland"
+	],
+	"repositories":
+	[
+		"https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3"
+	]
+}
