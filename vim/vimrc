@@ -28,6 +28,12 @@ func SetTitle()
     autocmd BufNewFile * normal G
 endfunc
 
+" 设置leader键,
+let mapleader=" "
+let g:mapleader=" "
+nnoremap <Leader>w :w<CR>
+nnoremap <Leader>q :q<CR>
+nnoremap <Leader>wq :wq<CR>
 
 "" 显示相关
 "color asmanian2     " 设置背景主题
